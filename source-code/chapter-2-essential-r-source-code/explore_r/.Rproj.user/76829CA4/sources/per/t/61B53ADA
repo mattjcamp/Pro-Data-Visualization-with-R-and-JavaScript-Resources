@@ -3,9 +3,9 @@
     "path": "~/Dropbox/projects/apress_book_pro_data_visualization_using_r_and_javascript/chapters/02-essential-r/chapter-2-essential-r-source-code/explore_r/scratch.R",
     "project_path": "scratch.R",
     "type": "r_source",
-    "hash": "0",
+    "hash": "52820799",
     "contents": "",
-    "dirty": true,
+    "dirty": false,
     "created": 1614086997890.0,
     "source_on_save": false,
     "relative_order": 1,
@@ -17,11 +17,11 @@
         "scrollLine": "34"
     },
     "folds": "",
-    "lastKnownWriteTime": 1614087061,
+    "lastKnownWriteTime": 1614089305,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1614088390059,
+    "last_content_update": 1614089305418,
     "read_only": false,
     "read_only_alternatives": []
 }
